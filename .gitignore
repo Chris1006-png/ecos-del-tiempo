@@ -1,0 +1,39 @@
+# Godot
+.godot/
+*.exe
+*.pck
+*.zip
+*.apk
+*.ipa
+*.so
+*.dylib
+*.dll
+
+# Editor
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build
+build/
+dist/
+bin/
+obj/
+
+# Exportación
+export/
+*.log
+
+# Temporal
+.temp/
+tmp/
+*.tmp
+
+# Sistema
+Thumbs.db
+.directory
